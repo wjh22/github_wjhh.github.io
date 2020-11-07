@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: github_wjhh/github_wjhh.github.io
 github_url: https://github.com/github_wjhh
 url: http//github_wjhh.github.io
-enforce_ssl: ityouknow.com
+enforce_ssl: wjhh.com
 
 ## Gem
 plugins:
